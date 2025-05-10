@@ -1,0 +1,51 @@
+{
+    "rewardedBad": [
+        
+            {
+              "criticism": "Frank Abagnale lied, forged checks, and impersonated people.",
+              "result": "He became a millionaire, avoided long prison time, and was hired by the FBI."
+            },
+            {
+              "criticism": "Lance Armstrong doped for years while competing.",
+              "result": "He won 7 Tour de France titles and gained fame and fortune before being exposed."
+            },
+            {
+              "criticism": "Jordan Belfort scammed investors out of millions.",
+              "result": "He served a short sentence and made more money selling his story and book."
+            },
+            {
+              "criticism": "Logan Paul filmed highly inappropriate content for clout.",
+              "result": "It exploded his fame, and now he’s a multi-millionaire brand owner and WWE star."
+            },
+            {
+              "criticism": "Steve Jobs was known for being controlling and harsh to employees.",
+              "result": "Apple became one of the most successful companies in history under his leadership."
+            }
+          
+          
+    ],
+    "punishedGood": [
+        {
+          "criticism": "Edward Snowden exposed mass government surveillance to protect civil rights.",
+          "result": "He became a fugitive and had to live in exile."
+        },
+        {
+          "criticism": "Colin Kaepernick peacefully protested police violence by kneeling.",
+          "result": "He was blackballed from the NFL and hasn't played since."
+        },
+        {
+          "criticism": "Aaron Swartz fought for open access to academic knowledge.",
+          "result": "He was aggressively prosecuted and died by suicide before trial."
+        },
+        {
+          "criticism": "Malala Yousafzai advocated for girls’ education.",
+          "result": "She was shot in the head by the Taliban at age 15."
+        },
+        {
+          "criticism": "Rosa Parks refused to give up her bus seat in a peaceful protest.",
+          "result": "She was arrested and lost her job."
+        }
+      ]
+      
+  }
+  
