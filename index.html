@@ -83,6 +83,26 @@
       border: 1px solid #9d9;
       transform: rotateY(180deg);
     }
+
+    @media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    height: auto;
+  }
+  .side {
+    padding: 1rem;
+  }
+  h1 {
+    font-size: 1.2rem;
+  }
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+  
+}
+
+
+
   </style>
 </head>
 <body>
